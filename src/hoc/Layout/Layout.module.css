@@ -4,7 +4,7 @@
 	flex-direction: column;
 }
 
-.Loyout main {
+.Layout main {
 	display: flex;
 	flex-direction: column;
 	flex: 1;
