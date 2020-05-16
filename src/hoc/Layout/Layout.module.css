@@ -1,12 +1,14 @@
 .Layout {
-	height: 100vh;
-	display: flex;
-	flex: 1;
-	flex-direction: column;
+    height: 100vh;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background: url("../../img/1.jpg") no-repeat;
+    background-size: cover;
 }
 
 .Layout main {
-	display: flex;
-	flex-direction: column;
-	flex: 1;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
